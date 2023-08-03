@@ -1,25 +1,30 @@
-# [Next.js Example](https://www.nextjs.org/)
+### Mobile Store (React Native com TypeScript)
 
-<p>
-  <!-- Web -->
-  <img alt="Supports Expo Web" longdesc="Supports Expo Web" src="https://img.shields.io/badge/web-4630EB.svg?style=flat-square&logo=GOOGLE-CHROME&labelColor=4285F4&logoColor=fff" />
-</p>
+Mobile Store é uma aplicação de comércio móvel para compra e venda de diversos produtos. Esta plataforma foi desenvolvida com o intuito de aprimorar meus conhecimentos.
 
-This demo shows you how to setup your Next.js website to use packages from the Expo SDK like Camera, Gestures, Permissions, etc... Refer to the [Next adapter docs](https://github.com/expo/expo-cli/tree/main/packages/next-adapter) to learn how to add more React Native packages to your Next.js project.
+### 🏁 Funcionalidades
+A aplicação oferece as seguintes funcionalidades:
 
-### 🏁 New Commands
+**Listagem de Produtos:** Todos os produtos disponíveis para compra são exibidos em uma página de listagem, onde os usuários podem ver detalhes sobre cada produto.
 
-When targeting web, you'll need to use the Next.js CLI instead of Expo CLI:
+**Detalhes do Produto:** Os usuários podem visualizar informações detalhadas sobre um produto específico, incluindo rating, fotos e preço.
 
-- **Starting web**
+**Adicionar ao Carrinho:** Os usuários podem adicionar produtos ao carrinho de compras e gerenciar os itens adicionados.
 
-  - 🚫 `yarn expo`
-  - ✅ `yarn next`
 
-- **Building web**
-  - 🚫 `yarn expo export:web`
-  - ✅ `yarn next build`
+## Pré-requisitos
+Para instalar e executar o projeto, você precisará das seguintes ferramentas instaladas em seu computador:
 
-### 👀 More Info
+Node.js - O ambiente de tempo de execução JavaScript que permite executar aplicativos React Native.
+Expo CLI - A CLI (Command Line Interface) Expo para gerenciar projetos e desenvolvimento React Native.
 
-- [Next Adapter repo](https://github.com/expo/expo-cli/tree/main/packages/next-adapter)
+
+- **Install**
+- ✅ npm install
+- **Starting**
+- ✅ npx expo start
+
+  
+
+### 👀 Contribuições?
+Se você deseja contribuir com o projeto, sinta-se à vontade para abrir issues relatando bugs, propondo melhorias ou submeter pull requests. Sua contribuição é muito bem-vinda!
